@@ -6,12 +6,23 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL-3.0-blue.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/cost-Free_Forever-green" alt="Free">
-  <img src="https://img.shields.io/badge/status-Active-brightgreen" alt="Active">
+  <img src="https://img.shields.io/badge/status-Prototype-yellow" alt="Prototype">
   <a href="https://mama.oliwoods.ai"><img src="https://img.shields.io/badge/Built_with-MAMA-8b5cf6" alt="Built with MAMA"></a>
   <a href="https://mama.oliwoods.ai/foundation"><img src="https://img.shields.io/badge/OliWoods-Foundation-10b981" alt="OliWoods Foundation"></a>
 </p>
 
 ---
+
+---
+
+## Status / Honesty
+
+This repository is a **prototype library** under the Mama Foundation (Scheme C). It is **not** production clinical software, **not** HIPAA certified, and **not** cleared for care delivery.
+
+- Maturity: **Prototype**
+- Portal path: [https://mama.oliwoods.ai/foundation/ready-all](https://mama.oliwoods.ai/foundation/ready-all)
+- See [MAMA-MSTR#959](https://github.com/OliWoods-Org/MAMA-MSTR/issues/959)
+
 
 > *"In Hurricane Katrina, people with disabilities died at more than twice the rate of the general population. In Hurricane Maria, disabled and elderly residents in rural Puerto Rico waited weeks for evacuation that never came. This is not a natural disaster problem. It is a systems design problem."*
 > — National Council on Disability, Preserving Our Freedom, 2019
@@ -54,7 +65,7 @@ flowchart TD
 | **Accessible Evacuation Routes** | Wheelchair-accessible route mapping, lift-equipped transport coordination, buddy system | ADA evacuation code |
 | **Special Needs Registry Auto-Submit** | One-click submission to county emergency management special needs registries | FEMA AFN framework |
 | **Multi-Modal Alert Delivery** | SMS, TTY, vibration alerts, visual flash, audio — matched to individual communication needs | WCAG 2.1 AA |
-| **Caregiver Command Center** | Real-time status for home care workers, family caregivers, and care facilities | HIPAA-compatible |
+| **Caregiver Command Center** | Real-time status for home care workers, family caregivers, and care facilities | privacy-aware (not HIPAA certified; prototype) |
 | **First Responder Data Share** | Opt-in: pre-share needs profile with local 911, fire, and EMS for faster response | NCI 911 protocol |
 | **Annual Plan Review** | Automated annual reminder to update equipment, medications, and contacts | FEMA Ready.gov |
 
